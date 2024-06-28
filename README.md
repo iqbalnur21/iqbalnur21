@@ -28,8 +28,7 @@ Feel free to reach out to me for discussions or questions related to:
 
 ### Sewa Online
 
-**Technologies**: React Native, Firebase
-**Brief Description**: Sewa Online is an application that facilitates online rentals and online payments. It features two user roles: service owner and customer. The application includes an affiliate program and uses Firebase for its database. Service owners can print rental information to Excel for easy management.
+Sewa Online is a versatile application built with React and Firebase, designed to streamline online rentals and payments. It supports two primary user roles: service owners and customers, offering seamless booking experiences. Key features include an integrated affiliate program for business growth and the ability for service owners to export rental data to Excel, simplifying management tasks.
 
 ## Contact
 
