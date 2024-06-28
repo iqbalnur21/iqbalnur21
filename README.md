@@ -11,7 +11,7 @@ Hello there! I'm Muhammad Iqbal Nur, a skilled Full-Stack Developer with a stron
 ## What I'm Up To
 
 - ⚡ Actively building my skills as a developer and exploring new technologies.
-- 📱 Working on mobile and web applications using React, CodeIgniter, and Firebase.
+- 📱 Working on mobile and web applications using React, CodeIgniter, MySQL and Firebase.
 - 🌍 Developing projects that make a difference in people's lives.
 - 👯 Open to collaborating with other developers and working on exciting projects.
 - 🤔 Aiming to contribute more to open-source projects and expand my knowledge.
