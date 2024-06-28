@@ -1,4 +1,3 @@
-
 # About Me
 
 Hello there! I'm Muhammad Iqbal Nur, a skilled Full-Stack Developer with a strong foundation in both front-end and back-end development. Here's a bit more about me:
@@ -30,7 +29,7 @@ Feel free to reach out to me for discussions or questions related to:
 ### Sewa Online
 
 **Technologies**: React Native, Firebase
-Sewa Online is an application that facilitates online rentals and online payments. It features two user roles: service owner and customer. The application includes an affiliate program and uses Firebase for its database. Service owners can print rental information to Excel for easy management.
+**Brief Description**: Sewa Online is an application that facilitates online rentals and online payments. It features two user roles: service owner and customer. The application includes an affiliate program and uses Firebase for its database. Service owners can print rental information to Excel for easy management.
 
 ## Contact
 
