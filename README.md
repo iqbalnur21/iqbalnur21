@@ -25,37 +25,12 @@ Feel free to reach out to me for discussions or questions related to:
 - 🔍 MySQL
 - 🧩 Firebase
 
-## Projects
+## Current Project
 
 ### Sewa Online
 
 **Technologies**: React Native, Firebase
 Sewa Online is an application that facilitates online rentals and online payments. It features two user roles: service owner and customer. The application includes an affiliate program and uses Firebase for its database. Service owners can print rental information to Excel for easy management.
-
-### Online Laundry
-
-**Technologies**: React Native, React JS, Firebase
-An intuitive mobile application aimed at simplifying the laundry process for users by connecting them with couriers for seamless laundry services.
-
-### Garuda Shop
-
-**Technologies**: React Native, React JS, Firebase, Midtrans, Rajaongkir
-A comprehensive mobile application facilitating product purchasing and delivery across Indonesia, with an intuitive admin interface built on React.js.
-
-### PPLNKL
-
-**Technologies**: CodeIgniter, MySQL, HTML, CSS, JavaScript
-An informative application for Indonesian citizens in Kuala Lumpur, providing comprehensive details about the 2024 presidential election with an admin interface for efficient data management.
-
-### SIMPEG KBRI
-
-**Technologies**: CodeIgniter, MySQL, HTML, CSS, JavaScript
-A robust application for the Indonesian Embassy, streamlining daily operations with features for attendance tracking and comprehensive data management.
-
-### SITARALIH
-
-**Technologies**: CodeIgniter, MySQL, HTML, CSS, JavaScript
-A specialized application for the Indonesian Commission for the 2024 election, focusing on data confirmation processes to ensure accuracy and efficiency.
 
 ## Contact
 
